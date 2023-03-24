@@ -1,3 +1,3 @@
-/nodeserver/nodemodules
-/nodeserver/package-lock.json
-/nodeserver/package.json
+nodeserver/nodemodules
+nodeserver/package-lock.json
+nodeserver/package.json
